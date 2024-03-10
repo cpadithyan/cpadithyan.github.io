@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>B89, 2/19</p>
     <p>Rajam Street,Tvs Nagar</p>
-    <p>Khajamalai, Trichy - 620023</p>
+    <p>Khajamalai, Trichy - 23</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
