@@ -17,6 +17,9 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I'm Adithyan CP, a dedicated 3rd-year integrated M.Tech student at Bharathidasan University, Trichy - India. specializing in Computer Science Engineering. 
+With over five years of experience in Android application development, I am passionate about pushing the boundaries of software engineering. Fascinated by machine learning and artificial intelligence, I'm committed to research in these fields. My goal is to unravel complex problems and pioneer innovative solutions, blending artistry with functionality. Join me as we explore the frontiers of technology and redefine what's possible in software engineering and machine learning.
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
