@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Final Year B.Tech Student at BDU.</a> | Research Intern - IIIT-H
-
+subtitle: <a href='#'>Final Year CSE Student at Bharathidasan University.</a>
 profile:
   align: right
   image: prof_pic.jpg
