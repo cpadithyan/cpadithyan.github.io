@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department Of Computer Science</p>
+    <p>Department Of CSE</p>
     <p>Bharathidasan University</p>
     <p>Trichy, TamilNadu 676523</p>
 
