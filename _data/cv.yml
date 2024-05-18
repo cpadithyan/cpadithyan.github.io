@@ -1,32 +1,32 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Adithyan Cp
       value: Albert Einstein
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st June 2003
     - name: Languages
-      value: English, German
+      value: English, Malayalam, Tamil
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Integrated M.Tech
+      institution: Bharathidasan University, Trichy, India
+      year: 2021 - 25
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
+    #     - title: Description 3.
+    #       contents:
+    #         - Sub-description 1.
+    #         - Sub-description 2.
+    # - title: Federal teaching diploma
+    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    #   year: 1900
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
 
 - title: Experience
   type: time_table
