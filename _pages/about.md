@@ -14,11 +14,11 @@ profile:
     <p>Trichy, TamilNadu 676523</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Im Adithyan Cp, a 3rd Year Integrated Mtech Student at [Bharathidasan University](https://www.bdu.ac.in/)., Trichy - India.  You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Im Adithyan Cp, a 3rd Year Integrated Mtech Student at [Bharathidasan University](https://www.bdu.ac.in/)., Trichy - India.  You can put a picture in, too. Interested in The field of Android and developing android Apps for the past 5+ Years.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
