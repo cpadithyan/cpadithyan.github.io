@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Final Year Student at BDU.</a> | Research Intern - IIIT-H
+subtitle: <a href='#'>Final Year B.Tech Student at BDU.</a> | Research Intern - IIIT-H
 
 profile:
   align: right
