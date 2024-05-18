@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Final Year CSE Student at Bharathidasan University.</a>
+subtitle: Final Year CSE <a href='#'>Student</a> at Bharathidasan University.
 profile:
   align: right
   image: prof_pic.jpg
