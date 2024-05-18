@@ -19,6 +19,6 @@ social: true # includes social icons at the bottom of the page
 
 Im Adithyan Cp, a 3rd Year Integrated Mtech Student at [Bharathidasan University](https://www.bdu.ac.in/), Trichy, India. Interested in The field of Android and developing android Apps for the past 5+ Years.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am deeply enthusiastic about computer science, software engineering, and the fascinating realms of machine learning and artificial intelligence. Throughout my academic journey, I have gained skills in developing Android applications and gained proficiency in machine learning frameworks like TensorFlow, Keras, PyTorch, and YOLO.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I did my research internship at IIIT Hyderabad, where I worked on a self-adaptive ML object detection app. This experience not only sharpened my technical skills but also instilled in me a deep passion for research and innovation in the fields of computer science and software engineering.
