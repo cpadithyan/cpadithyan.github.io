@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Student,</a> <a href='https://www.bdu.ac.in/'>Bharathidasan University,</a> Trichy - India
+subtitle: <a href='#'>Student,</a> Bharathidasan University, Trichy - India
 profile:
   align: right
   image: profile.png
