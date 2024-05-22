@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Im Adithyan Cp, a 4th Year Integrated Mtech(4+2) Computer Science Engineering Student at [Bharathidasan University](https://www.bdu.ac.in/), Trichy, India. and working with [Prof. Mahesh Mohan](https://maheshmohanmr.github.io/) at [SpAi](https://maheshmohanmr.github.io/publications/)(Signal Processing and Artificial Intelligence) Lab at IIT Kharagpur, Which focuses on research in the intersection of Signal Processing with Deep Learning and Computer Vision (with a focus on Agriculture applications). 
+Im Adithyan Cp, a 4th Year Integrated Mtech(4+2) Computer Science Engineering Student at [Bharathidasan University](https://www.bdu.ac.in/), Trichy, India. and working with [Prof. Mahesh Mohan](https://maheshmohanmr.github.io/) at [SpAi](https://maheshmohanmr.github.io/publications/)(Signal Processing and Artificial Intelligence) Lab at [IIT Kharagpur](https://www.iitkgp.ac.in/), Which focuses on research in the intersection of Signal Processing with Deep Learning and Computer Vision (with a focus on Agriculture applications). 
 
 I am deeply enthusiastic about computer science, software engineering, and the fascinating realms of machine learning and artificial intelligence. Throughout my academic journey, I have gained skills in developing Android applications and gained proficiency in machine learning frameworks like TensorFlow, Keras, PyTorch, and YOLO. and Interested in The field of Android and **Developing Android Apps for the past 5+ Years.**
 
