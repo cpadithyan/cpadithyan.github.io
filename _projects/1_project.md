@@ -10,13 +10,6 @@ related_publications: true
 
 Excited to announce the launch of our new Blood bank application! Proud to have developed this app in collaboration with Akshay Krishna k. At the request of the Student Federation of India (SFI) Kerala committee, we created a platform that allows users to register, search for donors, and make direct calls. The app was officially launched on June 2nd, 2024, at a program by SFI Central Committee executive member E. Afsal. Currently available on the Amazon App Store, and soon to be published on the Google Play Store. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bb3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
