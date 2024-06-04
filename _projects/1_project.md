@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bllod Bank Application
+title: Bl0od Bank Application
 description: with background image
 img: assets/img/12.jpg
 importance: 1
