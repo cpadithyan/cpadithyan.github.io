@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Adithyan Cp
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st June 2003
     - name: Languages
-      value: English, German
+      value: English, Malayalam, Tamil
 
 # - title: Education
 #   type: time_table
